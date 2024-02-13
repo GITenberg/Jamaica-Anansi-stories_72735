@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56795'
     url: http://www.gutenberg.org/2009/agents/56795
     wikipedia: https://en.wikipedia.org/wiki/Helen_Heffron_Roberts
+covers:
+- cover_type: archival
+  image_path: 72735-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Beckwith, Martha Warren
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9554
     wikipedia: https://en.wikipedia.org/wiki/Martha_Warren_Beckwith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72735#Jamaica-Anansi-stories
 gutenberg_issued: '2024-01-16'
 gutenberg_type: Text
 identifiers:
