@@ -1,0 +1,45 @@
+_repo: Jamaica-Anansi-stories_72735
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Roberts, Helen H. (Helen Heffron)
+    alias: Roberts, Helen Heffron
+    birthdate: 1888
+    deathdate: 1985
+    gutenberg_agent_id: '56795'
+    url: http://www.gutenberg.org/2009/agents/56795
+    wikipedia: https://en.wikipedia.org/wiki/Helen_Heffron_Roberts
+creator:
+  author:
+    agent_name: Beckwith, Martha Warren
+    birthdate: 1871
+    deathdate: 1959
+    gutenberg_agent_id: '9554'
+    url: http://www.gutenberg.org/2009/agents/9554
+    wikipedia: https://en.wikipedia.org/wiki/Martha_Warren_Beckwith
+description: ''
+gutenberg_issued: '2024-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72735'
+  lccn: '26010368'
+language: en
+pgterms:marc904: https://archive.org/details/jamaicaanansisto00beck
+pgterms:marc905: 20200101081622beckwith
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Jeroen Hellingman, Jude Eylander and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe American Folk-Lore Society, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Memoirs of the American Folk-Lore Society ; v. 17
+subjects:
+- !lcsh 'Folklore -- Jamaica'
+- !lcsh 'Creole dialects, English'
+- !lcc 'GR'
+- GITenberg
+title: Jamaica Anansi stories
+url: http://www.gutenberg.org/ebooks/72735
